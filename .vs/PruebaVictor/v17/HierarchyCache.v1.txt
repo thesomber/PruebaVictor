@@ -1,0 +1,305 @@
+﻿++Solución "PruebaVictor" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:PruebaVictor.sln
+++PruebaVictor
+i:{00000000-0000-0000-0000-000000000000}:PruebaVictor
+++Connected Services 
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:>897
+++Dependencias
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:>896
+++Properties
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\properties\
+++wwwroot
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\
+++Controllers
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\controllers\
+++AddendaController.cs
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\controllers\addendacontroller.cs
+++HomeController.cs
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\controllers\homecontroller.cs
+++Models
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\models\
+++Addenda.cs
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\models\addenda.cs
+++AspNetRole.cs
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\models\aspnetrole.cs
+++AspNetUser.cs
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\models\aspnetuser.cs
+++AspNetUserClaim.cs
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\models\aspnetuserclaim.cs
+++AspNetUserLogin.cs
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\models\aspnetuserlogin.cs
+++CerAddendasContext.cs
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\models\ceraddendascontext.cs
+++DocumentType.cs
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\models\documenttype.cs
+++ErrorViewModel.cs
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\models\errorviewmodel.cs
+++MigrationHistory.cs
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\models\migrationhistory.cs
+++Valore.cs
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\models\valore.cs
+++Views
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\
+++Addenda
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\addenda\
+++Create.cshtml
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\addenda\create.cshtml
+++Delete.cshtml
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\addenda\delete.cshtml
+++Details.cshtml
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\addenda\details.cshtml
+++Edit.cshtml
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\addenda\edit.cshtml
+++Index.cshtml
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\addenda\index.cshtml
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\home\index.cshtml
+++Home
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\home\
+++Shared
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\shared\
+++_ViewImports.cshtml
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\_viewstart.cshtml
+++appsettings.json
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\appsettings.json
+++appsettings.Development.json
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\appsettings.development.json
+++Program.cs
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\program.cs
+++No se detectaron dependencias de servicio
+++Analizadores
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:analizadores
+++Marcos de trabajo
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:marcos de trabajo
+++Paquetes
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:paquetes
+++launchSettings.json
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\properties\launchsettings.json
+++css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\css\
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\js\
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\
+++favicon.ico
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\favicon.ico
+++Privacy.cshtml
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\shared\error.cshtml
+++MessagePackAnalyzer
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.15\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.15)
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:>909
+++Microsoft.EntityFrameworkCore.Tools (6.0.15)
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:>911
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.13)
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:>912
+++Swashbuckle.AspNetCore (6.3.0)
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:>910
+++site.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\css\site.css
+++site.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\js\site.js
+++bootstrap
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\
+++jquery
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery\
+++jquery-validation
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\views\shared\_layout.cshtml.css
+++dist
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery\dist\
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery\license.txt
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Base de datos de SQL Server (ConnectionStrings:conexion)
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:>996
+++Se detectó una dependencia de Base de datos de SQL Server con connectionId "ConnectionStrings:conexion"
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:>997
+++Connected Services
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\connected services\
+++ServiceReference1
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\connected services\servicereference1\
+++ConnectedService.json
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\connected services\servicereference1\connectedservice.json
+++Reference.cs
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\connected services\servicereference1\reference.cs
+++System.ServiceModel.Duplex (4.8.*)
+++System.ServiceModel.Federation (4.8.*)
+++System.ServiceModel.Http (4.8.*)
+++System.ServiceModel.NetTcp (4.8.*)
+++System.ServiceModel.Security (4.8.*)
+++System.ServiceModel.Duplex (4.8.1)
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:>947
+++System.ServiceModel.Federation (4.8.1)
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:>943
+++System.ServiceModel.Http (4.8.1)
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:>946
+++System.ServiceModel.NetTcp (4.8.1)
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:>945
+++System.ServiceModel.Security (4.8.1)
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:>944
+++NewFolder
+++Formulario
+++Page.xaml
+++Page.xaml.cs
+++htmlpage.html
+++StyleSheet.css
+++Page.cs
+++libman.json
+i:{b37ad8bd-179a-4cbd-9bf6-5971f285e4ea}:c:\users\papolin\source\repos\pruebavictor\pruebavictor\libman.json
